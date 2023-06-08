@@ -1,0 +1,74 @@
+.wrapper {
+    max-width: 1200px;
+    margin: 0 auto;
+    width: 100%;
+	
+}
+
+.booking_rooms {
+   background-color:white;
+    padding:40px;
+}
+
+#archRoomH1{
+	 text-align:left!important;
+    margin-bottom:20px;
+}
+.filter{
+	 background-color: #6195FF;
+	 
+}
+.filter select {
+    padding:10px;
+    margin:5px 1px 5px 20px!important;
+	border:none;
+}
+
+.filter input{
+    /*padding:10px;
+    margin:5px 20px!important;
+	color:white;
+	background:black;*/
+	padding:10px 20px;
+	margin-left:80px;
+	 background-color:white;
+	 border:2px solid #00897b;
+	
+}
+.filter input:hover{
+	color:white;
+	background:black;
+	border:1px solid black;
+}
+span.locArRoom,span.typeArRoom {
+    display: block;
+}
+.imgArRoom img{
+	width:100%!important;
+	height:100%;
+}
+.hr{
+	height:1px;
+	border:none;
+	background-color:grey;
+	margin:20px 0;
+}
+.prodpag{
+	text-align:center;
+	margin-bottom:20px;
+}
+.artprod{
+   background-color:#E4FDF9;
+   margin:20px 0;
+  
+}
+
+.artprod h3 a{
+	color:black;
+}
+#artprodinfo{
+	padding:20px 0 20px 15px;
+}
+.artprod b{
+	color:black;
+}
